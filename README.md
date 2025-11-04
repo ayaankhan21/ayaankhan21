@@ -2,7 +2,7 @@
 
 Data-driven professional with 3+ years of experience in business analytics, data visualization, and strategic insights. Proven track record in research analytics, market intelligence, and stakeholder engagement to drive decision-making.
 
-Skilled in SQL, Python, MY SQL, Tableau, Power BI and Excel, with expertise in managing large datasets and developing actionable insights for business growth. Previously worked as a Data Analyst at Dell Recruiter Wings, leveraging data to improve customer experience and streamline operations.
+Skilled in SQL, Python, MY SQL, Tableau, Power BI and Excel, with expertise in managing large datasets and developing actionable insights for business growth. Previously worked as a Data Analyst at  Recruiter Wings, leveraging data to improve customer experience and streamline operations.
 
 ## 💻 Tech Stack
 
