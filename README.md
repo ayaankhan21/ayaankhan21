@@ -23,6 +23,9 @@ Skilled in SQL, Python, MY SQL, Tableau, Power BI and Excel, with expertise in m
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
+### Soft Skills
+Data Storytelling, Stakeholder Management, Requirement Gathering, Critical Thinking
 
-
+### Data Modeling & Warehousing
+Star/Snowflake Schema Design, Semantic Models, Fact-Dimension Modeling, OLAP, Data Governance, KPI, Data Ethics
 
