@@ -19,8 +19,9 @@ Skilled in SQL, Python, MY SQL, Tableau, Power BI and Excel, with expertise in m
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Data Lake and Warehouse
+### ![Data Lake](https://img.shields.io/badge/Data_Lake-008AD7?style=for-the-badge&logo=icloud&logoColor=white)Data Lake and Warehouse
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 
 
